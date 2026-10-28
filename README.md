@@ -21,3 +21,7 @@ Then open http://localhost:3000.
 ---
 
 <sub>Early learning project (course homework).</sub>
+
+## 📄 License
+
+View-only — all rights reserved. The code may be viewed on GitHub but not copied, used, modified or redistributed without written permission. See [LICENSE](LICENSE).
