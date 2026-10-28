@@ -9,9 +9,11 @@ Simple server-rendered to-do list web app: add and delete tasks stored in MongoD
 
 ## 🚀 Running
 
+The MongoDB connection string is read from the `MONGODB_URI` environment variable (see `.env.example`).
+
 ```bash
 npm install
-npm start
+MONGODB_URI="mongodb+srv://<user>:<password>@<cluster>.mongodb.net/todolist" npm start
 ```
 
 Then open http://localhost:3000.
